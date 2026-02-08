@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>CI/CD Jenkins</title>
+</head>
+<body>
+    <h1>¡Deploy exitoso con Jenkins, Docker y Kubernetes!</h1>
+    <p>Práctica de CI/CD funcionando correctamente.</p>
+</body>
+</html>
